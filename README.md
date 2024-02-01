@@ -1,8 +1,7 @@
-# React + Vite
+<h1>Hashtaurante</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Página de um restaurante utilizando React - <strong>#IntensivãoJavaScript #HashtagProgramação</strong></p>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/paulorosadodev/Restaurante-React/assets/117609505/40d67d28-b5e0-4015-8b30-6592df735f85)
+![image](https://github.com/paulorosadodev/Restaurante-React/assets/117609505/e2a091ca-d1c6-4594-a749-45bfff7ebe2f)
+![image](https://github.com/paulorosadodev/Restaurante-React/assets/117609505/161b99d1-292f-4ee3-b2b4-c50701172e3a)
